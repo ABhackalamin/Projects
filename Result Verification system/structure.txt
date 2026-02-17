@@ -1,0 +1,14 @@
+Result_Check/
+├── login.php
+├── dashboard.php       ← department/session select করে কাজ হবে
+├── upload.php
+├── delete.php
+├── logout.php
+├── users.php
+├── BSc_BSS/
+│   └── 2019-20/
+│       ├── ICE/
+│       └── CSE/
+├── MSc_MSS/
+│   └── 2020-21/
+│       └── ...
